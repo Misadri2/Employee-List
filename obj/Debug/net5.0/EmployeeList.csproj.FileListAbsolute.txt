@@ -1,0 +1,16 @@
+C:\Users\user\Projetos\ProjetosC#\EmployeeList\obj\Debug\net5.0\EmployeeList.csprojAssemblyReference.cache
+C:\Users\user\Projetos\ProjetosC#\EmployeeList\obj\Debug\net5.0\EmployeeList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Projetos\ProjetosC#\EmployeeList\obj\Debug\net5.0\EmployeeList.AssemblyInfoInputs.cache
+C:\Users\user\Projetos\ProjetosC#\EmployeeList\obj\Debug\net5.0\EmployeeList.AssemblyInfo.cs
+C:\Users\user\Projetos\ProjetosC#\EmployeeList\obj\Debug\net5.0\EmployeeList.csproj.CoreCompileInputs.cache
+C:\Users\user\Projetos\ProjetosC#\EmployeeList\bin\Debug\net5.0\EmployeeList.exe
+C:\Users\user\Projetos\ProjetosC#\EmployeeList\bin\Debug\net5.0\EmployeeList.deps.json
+C:\Users\user\Projetos\ProjetosC#\EmployeeList\bin\Debug\net5.0\EmployeeList.runtimeconfig.json
+C:\Users\user\Projetos\ProjetosC#\EmployeeList\bin\Debug\net5.0\EmployeeList.runtimeconfig.dev.json
+C:\Users\user\Projetos\ProjetosC#\EmployeeList\bin\Debug\net5.0\EmployeeList.dll
+C:\Users\user\Projetos\ProjetosC#\EmployeeList\bin\Debug\net5.0\ref\EmployeeList.dll
+C:\Users\user\Projetos\ProjetosC#\EmployeeList\bin\Debug\net5.0\EmployeeList.pdb
+C:\Users\user\Projetos\ProjetosC#\EmployeeList\obj\Debug\net5.0\EmployeeList.dll
+C:\Users\user\Projetos\ProjetosC#\EmployeeList\obj\Debug\net5.0\ref\EmployeeList.dll
+C:\Users\user\Projetos\ProjetosC#\EmployeeList\obj\Debug\net5.0\EmployeeList.pdb
+C:\Users\user\Projetos\ProjetosC#\EmployeeList\obj\Debug\net5.0\EmployeeList.genruntimeconfig.cache
