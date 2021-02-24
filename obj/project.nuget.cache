@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XEFhO85gaDLzszdb451yQEh1vbVotLEEAx7qjTRHMQAo+pA+QasiGgtQKenQ0NDVHD0dDK+mg9suBH7ehuZQig==",
+  "dgSpecHash": "UCTiBH/6OJPEbaUvvs9sFbvhHlRYW81ObwECz3tJc6+NoF6Ybo7+z1uu0tUyEkrCFd2nPfKALQnh0M45O+eUSQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Projetos\\ProjetosC#\\EmployeeList\\EmployeeList.csproj",
+  "projectFilePath": "C:\\Users\\user\\Projetos\\EmployeeList\\EmployeeList.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
